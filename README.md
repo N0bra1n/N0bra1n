@@ -5,7 +5,7 @@
 <table style="border: none; background: transparent;">
   <tr>
     <td width="220" style="border: none; background: transparent;">
-      <img src="./assets/neco-arc-fate.gif" width="200" alt="Neco Arc"/>
+      <img src="./Assets/neco-arc-fate.gif" width="200" alt="Neco Arc"/>
     </td>
     <td valign="middle" style="border: none; background: transparent; padding-left: 20px;">
       <h3>🎨 UI/UX Designer</h3>
